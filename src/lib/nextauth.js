@@ -1,4 +1,4 @@
-import GoogleProvider from 'next-auth/providers/Google'
+import GoogleProvider from 'next-auth/providers/google';
 import GitHubProvider from "next-auth/providers/github";
 
 
